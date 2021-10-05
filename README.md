@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="assets/daftpunktocat-guy.gif" />
 
-## I'm a Computer Science & Engineering Student From United International University.
+## I'm a Computer Science & Engineering Student From United International University, Dhaka.
 
 - 🌱 I am currently learning more about backend development using php's Laravel framework.
 - 🏆 2021 Goals: Get a job in the field of Software Engineer.
