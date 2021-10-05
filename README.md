@@ -12,7 +12,8 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmottasin)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmottasin/)
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/lmottasin)
-[![Email](https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=minutemailer&logoColor=white)](mlemon171082@bscse.uiu.ac.bd)
+
+<a href = "mailto: mlemon171082@bscse.uiu.ac.bd">Send Email</a>
 
 
 
