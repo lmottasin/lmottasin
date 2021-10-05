@@ -111,25 +111,28 @@ No Activity Tracked This Week
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 [![NodeMCU_ESP8266](https://img.shields.io/badge/NodeMCU_ESP8266-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 
+---
+### C Projects:
+
+<a href="https://github.com/lmottasin/Employee-Management-System-C-Project.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Employee-Management-System-C-Project" />
+</a>
 
 
+---
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lmottasin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lmottasin&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
+---
 
 <img src="assets/rilHVxA.png"/> 
 
-
-
- Last Updated on 04/10/2021
+---
+ Last Updated on 05/10/2021
 <!--END_SECTION:waka-->
