@@ -12,6 +12,7 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmottasin)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmottasin/)
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/lmottasin)
+[![Email](https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=minutemailer&logoColor=white)](mlemon171082@bscse.uiu.ac.bd)
 
 
 
@@ -76,6 +77,8 @@ No Activity Tracked This Week
 
 #### Web Development: 
 [![LARAVEL](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=black)]()
+[![PHP_OOP](https://img.shields.io/badge/PHP_OOP-777BB4?style=for-the-badge&logo=php&logoColor=black)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black)]()
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black)]()
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=black)]()
@@ -91,6 +94,32 @@ No Activity Tracked This Week
 [![Project_Management_Tool_-Wrike](https://img.shields.io/badge/Project_Management_Tool_-Wrike-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)]()
 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
+
+#### Machine Learning Tools/Libraries: 
+[![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)]()
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)]()
+[![Seaborn](https://img.shields.io/badge/Seaborn-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)]()
+
+[![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
+[![Google_Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)]()
+
+#### IoT/Hardware Project Tools: 
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
+[![NodeMCU_ESP8266](https://img.shields.io/badge/NodeMCU_ESP8266-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
+
+
+
+
+
+
+
+
+
+
+
 
 
 
