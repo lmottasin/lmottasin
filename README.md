@@ -112,10 +112,39 @@ No Activity Tracked This Week
 [![NodeMCU_ESP8266](https://img.shields.io/badge/NodeMCU_ESP8266-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 
 ---
-### C Projects:
+## 💻 Projects: 
+#### Web Projects: 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+#### Machine Learning Projects:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+#### Java Projects:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+
+#### C Projects:
 
 <a href="https://github.com/lmottasin/Employee-Management-System-C-Project.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Employee-Management-System-C-Project" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Employee-Management-System-C-Project&theme=radical" />
 </a>
 
 
