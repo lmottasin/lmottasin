@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="assets/daftpunktocat-guy.gif" />
 
-## I'm a Backend Developer
+## I'm a Computer Science & Engineering Student From United International University.
 
-- 🌱 I am currently learning more about backend development.
-- 🏆 2021 Goals: Contribute more to Open Source Projects.
+- 🌱 I am currently learning more about backend development using php's Laravel framework.
+- 🏆 2021 Goals: Get a job in the field of Software Engineer.
 - 📫 What is the best way to contact me? [Facebook](https://www.facebook.com/mottasin.lemon/)
 
 
