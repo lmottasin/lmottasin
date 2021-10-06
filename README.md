@@ -1,3 +1,5 @@
+<!-- ![](https://komarev.com/ghpvc/?username=lmottasin&color=brightgreen) -->
+
 # Hi there, I'm Md. Mottasin Lemon - aka Leemon <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="assets/daftpunktocat-guy.gif" />
@@ -36,22 +38,8 @@
 🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
 🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
-``` -->
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
 ```
-
+-->
 
 
 ---
