@@ -114,12 +114,15 @@ No Activity Tracked This Week
 ---
 ## 💻 Projects: 
 #### Web Projects: 
+
+<a href="https://github.com/lmottasin/Hospital-Management-System.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Hospital-Management-System&theme=dracula" />
+</a>
+
 <a href="https://github.com/lmottasin/Online-Pharmacy-SAD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Online-Pharmacy-SAD&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 
 
 #### Machine Learning Projects:
