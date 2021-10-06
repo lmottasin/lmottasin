@@ -132,11 +132,11 @@ No Activity Tracked This Week
 
 
 #### Java Projects:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/lmottasin/Meal-Management-System-Java-Swing-GUI.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Meal-Management-System-Java-Swing-GUI&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/lmottasin/Meal-Management-System-Java-Swing-GUI.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Meal-Management-System-Java-Swing-GUI&theme=cobalt" />
 </a>
 
 
