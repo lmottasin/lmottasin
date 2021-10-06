@@ -135,8 +135,8 @@ No Activity Tracked This Week
 <a href="https://github.com/lmottasin/Meal-Management-System-Java-Swing-GUI.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Meal-Management-System-Java-Swing-GUI&theme=cobalt" />
 </a>
-<a href="https://github.com/lmottasin/Meal-Management-System-Java-Swing-GUI.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Meal-Management-System-Java-Swing-GUI&theme=cobalt" />
+<a href="https://github.com/lmottasin/Restaurant-Management-System-Java-Swing.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Restaurant-Management-System-Java-Swing&theme=cobalt" />
 </a>
 
 
