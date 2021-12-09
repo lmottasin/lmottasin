@@ -68,6 +68,7 @@
 [![LARAVEL](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=black)]()
 [![PHP_OOP](https://img.shields.io/badge/PHP_OOP-777BB4?style=for-the-badge&logo=php&logoColor=black)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black)]()
+[![Ajax](https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=jquery&logoColor=black)]()
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black)]()
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=black)]()
@@ -164,5 +165,5 @@
 <img src="assets/rilHVxA.png"/> 
 
 ---
- Last Updated on 05/10/2021
+ Last Updated on 9/12/2021
 <!--END_SECTION:waka-->
