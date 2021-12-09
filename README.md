@@ -103,6 +103,16 @@
 ## 💻 Projects: 
 #### Web Projects: 
 
+<a href="https://github.com/lmottasin/Student-Management-System-Ajax-Laravel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Student-Management-System-Ajax-Laravel&theme=dracula" />
+</a>
+<a href="https://github.com/lmottasin/School-Management-System-Laravel-CRUD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=School-Management-System-Laravel-CRUD&theme=dracula" />
+</a>
+<a href="https://github.com/lmottasin/Template-Slicing-With-Laravel-Itally-Food">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Template-Slicing-With-Laravel-Itally-Food&theme=dracula" />
+</a>
+
 <a href="https://github.com/lmottasin/Hospital-Management-System.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmottasin&repo=Hospital-Management-System&theme=dracula" />
 </a>
